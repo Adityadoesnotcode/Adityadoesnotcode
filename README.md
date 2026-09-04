@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 I am Swarnaditya Singh, a Java Full Stack Developer passionate about building modern and scalable web applications.<br>Languages: Java, JavaScript, HTML, CSS, SQL, Python<br>Frameworks & Libraries: Spring Boot, React, Next.js, Tailwind CSS, Node.js<br>Databases: MySQL, PostgreSQL, MongoDB<br>Cloud: AWS | DevOps: Git, GitHub, Docker, CI/CD, Kubernetes
 
 
